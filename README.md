@@ -21,6 +21,6 @@ EYE_Q_SYSTEM (Vision AI활용 마킹시스템)
 (검출 데이터를 마킹기에 어떻게 전달하지?)
 10. 마킹이 제대로 되었는지확인 (Vision AI활용, Yolo v8)
 11. NG는  Airblow처리
-12. OK는 박스에 보관 후 + 추가 될때마타 +1씩
+12. OK는 박스에 보관 후 + 추가 될때마다 +1씩
 13. OK와 NG 수량은 데이터 베이스에 저장(MSsql, MariaDB, MySql, Postgre)
 14. 완성?
